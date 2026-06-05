@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Valdi 💻</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • PHP (Laravel) • React/Next.js • TypeScript • APIs REST
+  🤖 Desenvolvedor Full Stack • PHP (Laravel) • React/Next.js • TypeScript • APIs REST
 </p>
 
 ---
@@ -18,35 +18,47 @@ Ao longo da minha trajetória, foquei em entregar valor de forma consistente: ot
 Construí integrações reais de produção com APIs de logística (JadLog, Melhor Envio, ViaCEP), gateways de pagamento (E-REDE, IUGU, PagBank) e sistemas fiscais/ERPs (Bling), garantindo rastreamento de fretes, conciliação financeira e emissão de notas fiscais automatizada.
 </p>
 
-### 🛠️ Stack
+<p align="left">
+    <a href="https://www.linkedin.com/in/valdijunior/">
+        <img 
+    alt="LinkedIn"
+    title="Conecte-se comigo no LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+/>
+    </a>
+</p>
 
-#### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+---
+
+### 🚀 Tecnologias
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Frontend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-#### UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=valdijr-web&show_icons=true&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valdijr-webO&layout=compact)
-
-<!-- Card de Estatísticas Gerais -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=valdijr-web&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
-<!-- Card de Linguagens Mais Usadas -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdijr-web&layout=compact&theme=dark" />
-
-### 📫 Onde me encontrar
-
-- LinkedIn: https://www.linkedin.com/in/valdijunior/
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=valdijr-web&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valdijr-web&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
+</p>
 
 ---
