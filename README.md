@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Valdi 💻</h1>
 
 <p align="center">
-  🤖 Desenvolvedor Full Stack • PHP (Laravel) • React/Next.js • TypeScript • APIs REST
+  🤖 Desenvolvedor Full Stack
 </p>
 
 ---
@@ -38,6 +38,7 @@ Construí integrações reais de produção com APIs de logística (JadLog, Melh
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
